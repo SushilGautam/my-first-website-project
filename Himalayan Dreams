@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Himalayan Dreams</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2e8b57;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #2e8b57;
+            font-weight: bold;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #2e8b57;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Himalayan Dreams</h1>
+        <p>Your gateway to soulful music</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#music">Our Music</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Himalayan Dreams</h2>
+        <p>Himalayan Dreams is a music group inspired by the serene landscapes of the Himalayas. Our music blends traditional sounds with modern influences to create a unique and soulful experience. Himalayan Dreams is a captivating music band that blends the rich sounds of traditional instruments with modern-day melodies. Drawing inspiration from the serene landscapes of the Himalayas, their music offers a unique fusion that resonates with contemporary listeners while preserving the cultural essence of their roots. Whether through the haunting tunes of the sitar or the rhythmic beats of the tabla, Himalayan Dreams creates an auditory journey that bridges the old with the new, making ancient sounds accessible and enchanting for today's audience.</p>
+    </section>
+
+    <section id="music">
+        <h2>Our Music</h2>
+        <p>Explore our latest tracks, albums, and performances. We bring the mountains to life through our melodies.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>We'd love to hear from you! Reach out to us at <a href="mailto:info@himalayandreams.com">info@himalayandreams.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Himalayan Dreams. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
